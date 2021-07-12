@@ -1,2 +1,1 @@
-# C10-Class
-Created Trex.
+# C10_teacher_activity_1
